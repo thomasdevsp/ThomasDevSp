@@ -1,4 +1,5 @@
-### Oii 👋
+### Oii sou o Thomas👋
 
-Em breve vou completar...
+Estou começando minha carreira como programador por agora
+Em breve vou colocar mais coisas aqui...
 
