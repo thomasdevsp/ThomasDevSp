@@ -1,5 +1,4 @@
-### Oii sou o Thomas👋
+### Oi! Muito prazer, me chamo Thomas Fernando
 
-- Estou começando minha carreira como programador por agora
-- Em breve vou colocar mais coisas aqui...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?thomasdevsp=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
